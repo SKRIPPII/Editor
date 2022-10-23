@@ -1,0 +1,9 @@
+C:\Users\timak\source\repos\WindowsFormsApp1\TextEditor.BL\bin\Debug\net4.7.2\TextEditor.BL.dll
+C:\Users\timak\source\repos\WindowsFormsApp1\TextEditor.BL\bin\Debug\net4.7.2\TextEditor.BL.pdb
+C:\Users\timak\source\repos\WindowsFormsApp1\TextEditor.BL\obj\Debug\net4.7.2\TextEditor.BL.csproj.AssemblyReference.cache
+C:\Users\timak\source\repos\WindowsFormsApp1\TextEditor.BL\obj\Debug\net4.7.2\TextEditor.BL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\timak\source\repos\WindowsFormsApp1\TextEditor.BL\obj\Debug\net4.7.2\TextEditor.BL.AssemblyInfoInputs.cache
+C:\Users\timak\source\repos\WindowsFormsApp1\TextEditor.BL\obj\Debug\net4.7.2\TextEditor.BL.AssemblyInfo.cs
+C:\Users\timak\source\repos\WindowsFormsApp1\TextEditor.BL\obj\Debug\net4.7.2\TextEditor.BL.csproj.CoreCompileInputs.cache
+C:\Users\timak\source\repos\WindowsFormsApp1\TextEditor.BL\obj\Debug\net4.7.2\TextEditor.BL.dll
+C:\Users\timak\source\repos\WindowsFormsApp1\TextEditor.BL\obj\Debug\net4.7.2\TextEditor.BL.pdb
